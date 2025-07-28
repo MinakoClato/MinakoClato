@@ -14,6 +14,7 @@
 - 📫 How to reach me **(Shoot me a direct message on Discord: rexinex)**
 
 <h3 align="left">Connect with me:</h3>
+- Contact me through Discord, (rexinex)
 <p align="left">
 </p>
 
