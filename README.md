@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm MinakoClato</h1>
 <h3 align="center">I am a beginner coder from Pakistan</h3>
 
-- 🔭 I’m currently working on [Windows Port of Catnap](https://github.com/MinakoClato/wincatnap)
-
+- 🔭 I’m currently working on bettering my skills as a developer.
 - 🌱 I’m currently learning **Go**
 
 - 👯 I’m looking to collaborate on **(Nothing as of yet)**
 
-- 🤝 I’m looking for help with (https://github.com/MinakoClato/wincatnap)
+- 🤝 I’m looking for help with **(Nothing as of yet)**
 
 - 💬 Ask me about **Python**
 
