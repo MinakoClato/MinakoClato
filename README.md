@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm MinakoClato</h1>
 <h3 align="center">I am a beginner coder from Pakistan</h3>
 
-- 🔭 I’m currently working on [Notes App](https://github.com/MinakoClato/Basic-Notes-App)
+- 🔭 I’m currently working on [Windows Port of Catnap](https://github.com/MinakoClato/wincatnap)
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Go**
 
-- 👯 I’m looking to collaborate on **(Blank)**
+- 👯 I’m looking to collaborate on **(Nothing as of yet)**
 
-- 🤝 I’m looking for help with **(Blank)**
+- 🤝 I’m looking for help with (https://github.com/MinakoClato/wincatnap)
 
 - 💬 Ask me about **Python**
 
 - 📫 How to reach me **(Shoot me a direct message on Discord: rexinex)**
 
 <h3 align="left">Connect with me:</h3>
-- Contact me through Discord, (rexinex)
+- Contact me through Discord, (luzinex)
 <p align="left">
 </p>
 
